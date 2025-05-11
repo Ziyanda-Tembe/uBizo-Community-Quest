@@ -62,7 +62,7 @@ $ npm start
 - [ ] Build a team
 - [ ] MVP development
 - [ ] Beta testing with small user group
-- [ ] deploy at university level through Mellinuim fellowship
+- [ ] Deploy at university level through Mellinuim fellowship
 - [ ] Official launch
 - [ ] Mobile app development
 
